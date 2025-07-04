@@ -1,8 +1,10 @@
 # Prerequisites
 # New changes from vsCode - Ami
-## More changes to practice
+## More changes to practice 
+#### UI login bug changes
+##### PBI 5444587 changes at 11:35
 #############
-- JDK 25
+- JDK 26
 - Maven 3.9 
 - MySQL 8
 
